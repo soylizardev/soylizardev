@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hola, soy Miguel Lizarzado (@soylizardev)<br>Fullstack Developer (Backend-Heavy) en formación<br><br>Construyendo soluciones reales mientras domino el arte del desarrollo de alto rendimiento. Actualmente enfocado en fortalecer mi lógica en JavaScript para dar el salto hacia la arquitectura robusta de TypeScript y el rendimiento de Go.<br><br>🛠️ Lo que estoy haciendo<br>🔭 Proyecto actual: Android-to-Linux Notifier - Automatización local con Node.js.<br><br>📚 Aprendiendo: JavaScript ES6+ y patrones de diseño.<br><br>🐧 Entorno: Fedora Linux lover.
+🚀 Hola, soy Miguel Lizarzado (@soylizardev)<br>Fullstack Developer (Backend-Heavy) en formación<br><br>Construyendo soluciones reales mientras domino el arte del desarrollo de alto rendimiento.<br> Actualmente enfocado en fortalecer mi lógica en JavaScript para dar el salto hacia la arquitectura robusta de TypeScript y el rendimiento de Go.<br><br>🛠️ Lo que estoy haciendo<br>🔭 Proyecto actual: Android-to-Linux Notifier - Automatización local con Node.js.<br><br>📚 Aprendiendo: JavaScript ES6+ y patrones de diseño.<br><br>🐧 Entorno: Linux lover. <br><br>⚡ Fun fact: Construí mi propio servidor de desarrollo local utilizando una laptop vieja con Ubuntu Server, donde actualmente corre mi sistema de webhooks y mis entornos de práctica. Aún sigo aprendiendo como se usa.
 
 
 ## 🌐 Socials:
@@ -17,11 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soylizardev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=soylizardev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
