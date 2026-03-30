@@ -1,19 +1,39 @@
 # 💫 About Me:
-🚀 Hola, soy Miguel Lizarzado (@soylizardev)<br>Fullstack Developer (Backend-Heavy) en formación<br><br>Construyendo soluciones reales mientras domino el arte del desarrollo de alto rendimiento.<br> Actualmente enfocado en fortalecer mi lógica en JavaScript para dar el salto hacia la arquitectura robusta de TypeScript y el rendimiento de Go.<br><br>🛠️ Lo que estoy haciendo<br>🔭 Proyecto actual: Android-to-Linux Notifier - Automatización local con Node.js.<br><br>📚 Aprendiendo: JavaScript ES6+ y patrones de diseño.<br><br>🐧 Entorno: Linux lover. <br><br>⚡ Fun fact: Construí mi propio servidor de desarrollo local utilizando una laptop vieja con Ubuntu Server, donde actualmente corre mi sistema de webhooks y mis entornos de práctica. Aún sigo aprendiendo como se usa.
-
-
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lizardev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizardev@hotmail.com) 
+$ whoami<br>Miguel: Go | Rust Developer & Systems Enthusiast.<br><br>$ current_project<br>ZAMI: Building an independent OS from zero. <br>Stack: Linux 6.19.9 | GCC 15.2 | Rust | Go<br><br>$ status<br>Self-hosting and optimizing everything.
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+$ list --skills --vocal
+> Backend: [Go] Specialized in Concurrency & Microservices
+> Systems: [Rust] Building Zhellmi | [C] Low-level manipulation
+> Environment: [Neovim] Configured from scratch | [Tmux] Session management
+> OS Dev: Toolchain building | FS Hierarchy | Kernel 6.19.9
+
+## 🛠️ ZAMI Status: [Building the Foundations]
+- [x] **Toolchain:** GCC 15.2, Glibc 2.43, Binutils 2.46 (Completed)
+- [x] **Kernel:** Custom Linux 6.19.9 (Optimized)
+- [ ] **Init System:** Developing native scripts (In Progress)
+- [ ] **Self-hosting State:** Reaching chroot autonomy (Next)
+
+> ⚡ Fun Fact: I prefer soldering a fuse to buying a new board. I believe in understanding the machine from the hardware up.
+
+$ cat /etc/philosophy
+> "Technical purity through zero contamination."
+> "Performance over abstraction."
+
+$ check --hardware --status
+> Running on: Personal Lab (Self-hosted server)
+> Mobile: LineageOS (De-googled & Optimized)
+
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/lizardev.bsky.social) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lizardev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@lizardev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizardev@hotmail.com) 
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soylizardev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soylizardev&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soylizardev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soylizardev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soylizardev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soylizardev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soylizardev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=soylizardev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
